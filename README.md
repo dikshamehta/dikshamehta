@@ -64,4 +64,8 @@ I'm a passionate software developer with a penchant for architecting solutions u
 <a href = "mailto: dikshamehta4229@gmail.com">
   <img align="left" width="50px" src="https://img.icons8.com/plasticine/2x/gmail.png" />
 </a>
+<a href = "https://www.instagram.com/tony.rdj.ironman/">
+  <img align="left" width="45px" src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000" />
+</a>
+
 <br>
